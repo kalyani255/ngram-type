@@ -69,15 +69,4 @@ You could start with Top 50 bigrams/trigrams/tetragrams/words first. Then, move 
 Hosted Version
 You could access the online version using GitHub Pages:
 
-https://ranelpadon.github.io/ngram-type/
-Translations
-Russian
-Project Page:
-https://github.com/aleuxser/ngram-type-ru/
-Hosted Version:
-https://aleuxser.github.io/ngram-type-ru/
-French
-Project Page:
-https://github.com/edmundlam/ngram-type-fr/
-Hosted Version:
-https://edmundlam.github.io/ngram-type-fr/
+https://ranelpadon.github.io/ngram-type
